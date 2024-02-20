@@ -1,0 +1,34 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/tinycolor2": "^1.4.6",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "solid-devtools": "^0.29.3",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.1",
+    "vite-plugin-solid": "^2.9.1"
+  },
+  "dependencies": {
+    "@solid-primitives/deep": "^0.2.5",
+    "@solid-primitives/refs": "^1.0.6",
+    "@solid-primitives/scheduled": "^1.4.2",
+    "@solid-primitives/storage": "^2.1.2",
+    "@solidjs/router": "^0.8.4",
+    "fitty": "^2.4.2",
+    "motion": "^10.17.0",
+    "solid-js": "^1.8.14",
+    "solid-motionone": "^1.0.0",
+    "solid-tippy": "^0.2.1",
+    "tinycolor2": "^1.6.0"
+  }
+}

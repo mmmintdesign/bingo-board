@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: "Roboto", sans-serif;
+	overflow: hidden;
+}
+/* *,
+*::before,
+*::after {
+	box-sizing: border-box;
+} */
